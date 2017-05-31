@@ -4,7 +4,7 @@ U.S. General Services Administration (GSA) Technology Transformation Service (TT
 
 **Questions or comments regarding this RFQ shall be submitted to michelle.mcnellis@gsa.gov no later than May 25, 2017 by 4:00pm EST**, to allow the Government sufficient time to respond. All questions and comments will be publicly available. Questions or comments received after the required deadline will not be answered. Any changes to this RFQ or attachments will be posted as an amendment on GSA eBuy.
 
-**Quotation must be received electronically to michelle.mcnellis@gsa.gov, by May 31, 2017 by 4:00 pm.**
+**Quotation must be received electronically to michelle.mcnellis@gsa.gov, by May 31, 2017 by 4:00 pm EST.**
 
 Please use the [Google RFQ Response Form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSeYm0yVxViYKvGpPB_GKh83icfM8ihM3329Bqiap4Rd2lQyZQ/viewform?c=0&w=1) to submit your quotation. Thank you. 
 
